@@ -5,6 +5,7 @@
 
 <br>
 
-<div>
-  <img src="Gambar/rangkaian.png" alt="Rangkaian Sistem">
+<div align="center">
+  <img src="Gambar/rangkaian.png" alt="Rangkaian Sistem" width="800px">
+
 </div>
